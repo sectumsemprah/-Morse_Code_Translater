@@ -1,0 +1,17 @@
+.pio/
+build/
+dist/
+*.exe
+*.o
+*.obj
+*.bin
+!docs/**/*.bin
+.vscode/
+.idea/
+*.user
+Thumbs.db
+.DS_Store
+deps/
+site/
+doc/_build/
+*.log
